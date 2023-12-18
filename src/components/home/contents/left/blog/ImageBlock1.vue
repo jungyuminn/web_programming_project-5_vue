@@ -6,7 +6,7 @@ import '@/assets/ir.css'
   <div class="blog-component-wrapper-1">
     <h5><span class="su">Image1</span></h5>
     <figure>
-      <img className="img-normal" src="" alt="normal_image" />
+      <img className="img-normal" src="https://github.com/YuMinGod/react/blob/main/public/White%20and%20Black%20Simple%20Web%20Developer%20Business%20Card.png?raw=true" alt="normal_image" />
     </figure>
   </div>
 </template>
